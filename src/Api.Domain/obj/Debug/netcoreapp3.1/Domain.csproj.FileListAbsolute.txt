@@ -1,0 +1,29 @@
+C:\Mauro\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Mauro\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Mauro\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Mauro\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Mauro\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Mauro\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Mauro\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb

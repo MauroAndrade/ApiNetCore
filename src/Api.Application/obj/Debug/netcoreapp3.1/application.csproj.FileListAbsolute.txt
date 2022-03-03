@@ -1,0 +1,239 @@
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.pdb
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Mauro\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csprojAssemblyReference.cache
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.xml
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
+C:\Mauro\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.xml
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\application.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.xml
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache

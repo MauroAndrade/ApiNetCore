@@ -1,0 +1,47 @@
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Mauro\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Mauro\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

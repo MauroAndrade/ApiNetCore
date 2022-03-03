@@ -1,0 +1,44 @@
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Mauro\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Mauro\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

@@ -1,0 +1,50 @@
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Mauro\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Projetos\Projetos Gelt\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Projetos\GitHubProjects\api_dotnet_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
